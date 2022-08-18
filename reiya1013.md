@@ -34,8 +34,8 @@
 
 - 未経験の言語・新製品のハードでも新規で覚えて製品化するまでできる
 - ハード＋ソフトの設計製作及び製品化を独りでできる
-- 新しいことへチャレンジするのが好き
-
+- 新しいことへチャレンジするのが好き  
+<br> 
 
 ## 職務経歴
 
@@ -45,12 +45,12 @@
 
 #### 2008 製鉄向け在庫管理システム
 
-- VB6, Oracle
+- VB6, Oracle<br>
 
 #### 2009 製鉄向け社内承認システム
 
 - ASP.NET(VB), Oracle
-
+<br>
 
 ### 2010/05 - : 日鉄テックスエンジ株式会社
 
@@ -61,7 +61,7 @@
 #### 2010 加熱炉制御システム
 
 - VB6
-
+ 
 #### 2010 ごみ処理施設 電光掲示板制御システム
 
 - VB.NET, DCS専用通信, RS485通信
@@ -85,7 +85,7 @@
 
 #### 2014 加熱炉総合監視システム
 
-- VB.NET, TCP/IP通信, PLC
+- VB.NET, TCP/IP通信, PLC<br>
 
 #### 2015 製品温度監視システム
 
@@ -114,9 +114,8 @@
 #### 2021 所属グループ向け GitLabサーバー構築及びメンテナンス
 
 - Ubuntu, Gitlab
-
-
-
+<br> 
+  
 ### 2020/01 - : 個人活動(Unity関連)
 
 ビートセイバーでのアバター配信興味を持ち活動開始
@@ -127,50 +126,49 @@ BeatSaber用MOD「VMCAvatar」が2020に登場したが、ゲーム内のBloom�
 
 - Unity, C#, Shader, AssetBundle, 拡張エディタ
 - [Git](https://github.com/Reiya1013/VMCAvatarMaterialChange)
-
+  
 #### 2021 BeatSaber用MOD「ParticleOnAvatar」
 
 簡単にVRMアバターに表現を追加したいという思いから開発
 
 - Unity, C#, AssetBundle, 拡張エディタ
 - [Git](https://github.com/Reiya1013/ParticleOnAvatar)
-
+  
 #### 2021 AvatarDance
 
 「BeatSaber内で自分のアバターがどんなふうに動いてるか確認したい」という要望から、どうせなら踊ってもらおうということで開発
 
 - Unity, C#, AssetBundle, 拡張エディタ
 - [Git](https://github.com/Reiya1013/AvatarDance)
-
+  
 #### 2021 バーチャルモーションキャプチャー用MOD「VMC_MaterialChange」
 
-ばもきゃでも、MToon以外のシェーダーを使いたいという要望から開発
+バーチャルモーションキャプチャーでも、MToon以外のシェーダーを使いたいという要望から開発
 
 - Unity, C#, AssetBundle, 拡張エディタ
 - [Git](https://github.com/Reiya1013/VMC_MaterialChange)
-
+  
 #### 2021 バーチャルモーションキャプチャー用MOD「TransparentAdjust」
 
 バーチャルモーションキャプチャーのアバターでTransparentを用いて半透明表示をしていた場合透過ウインドウで裏面が見えてしまうのを解消したい思い開発
 
 - Unity, C#, AssetBundle, 拡張エディタ
 - [Git](https://github.com/Reiya1013/VMC_TransparentAdjust)
-
-
+  
 #### 2022 VRChat向けツール「AvatarOverviewer」
 
 「VRChatのサムネイルに作者名や警告メッセージを用意に載せれたらな」と相談受け開発
 
 - Unity, C#, 拡張エディタ
 - [Booth](https://reiya1013.booth.pm/items/3689562)
-
+  
 #### 2022 VRChat向けツール「VRCAvatarSecurity」
 
 OSC通信を用いたアバター盗難対策ツール
 
 - Unity, C#, OSC通信
 - [Booth](https://reiya1013.booth.pm/items/3684751)
-
+  
 #### 2022 DMM VR Connect SDK (DVRSDK)へのPullRequest
 
 Meta QuestでVirtual Desktop使用時の鏡(ミラー)が正しく描画されなかったのを修正
