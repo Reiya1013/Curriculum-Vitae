@@ -73,13 +73,13 @@
 #### 2011～ 走査型放射温度計システム全般
 
 - VB.NET, C#, RS-232C, TCP/IP通信, SQL
-  - [製品ページ]{https://www.tex.nipponsteel.com/technology/1050/}
+  - [製品ページ](https://www.tex.nipponsteel.com/technology/1050/)
   - 年に1～3案件のペースでシステム制作を行う。主な用途は、「製品温度解析」「設備監視」「ベルトコンベア火災監視」など
 
 #### 2012～ サーモグラフィシステム全般
 
 - VB.NET, C#, TCP/IP通信, SQL
-  - [製品ページ]{https://www.tex.nipponsteel.com/technology/1062/}
+  - [製品ページ](https://www.tex.nipponsteel.com/technology/1062/)
   - 2012～18までは年に0～1案件のペースでシステム制作を行う。主な用途は、「設備監視」「モーター等の回転体起因の火災監視」など
   - 2018～は上記に加え、各社からの需要上昇により、各種サーモグラフィーメーカー対応等を行う。
 
@@ -126,35 +126,35 @@
 BeatSaber用MOD「VMCAvatar」が2020に登場したが、ゲーム内のBloomを切らないと使えない仕様だったため、BloomONでも動くようにサポートMODを開発
 
 - Unity, C#, Shader, AssetBundle, 拡張エディタ
-- [Git]{https://github.com/Reiya1013/VMCAvatarMaterialChange}
+- [Git](https://github.com/Reiya1013/VMCAvatarMaterialChange)
 
 #### 2021 BeatSaber用MOD「ParticleOnAvatar」
 
 簡単にVRMアバターに表現を追加したいという思いから開発
 
 - Unity, C#, AssetBundle, 拡張エディタ
-- [Git]{https://github.com/Reiya1013/ParticleOnAvatar}
+- [Git](https://github.com/Reiya1013/ParticleOnAvatar)
 
 #### 2021 AvatarDance
 
 「BeatSaber内で自分のアバターがどんなふうに動いてるか確認したい」という要望から、どうせなら踊ってもらおうということで開発
 
 - Unity, C#, AssetBundle, 拡張エディタ
-- [Git]{https://github.com/Reiya1013/AvatarDance}
+- [Git](https://github.com/Reiya1013/AvatarDance)
 
 #### 2021 バーチャルモーションキャプチャー用MOD「VMC_MaterialChange」
 
 ばもきゃでも、MToon以外のシェーダーを使いたいという要望から開発
 
 - Unity, C#, AssetBundle, 拡張エディタ
-- [Git]{https://github.com/Reiya1013/VMC_MaterialChange}
+- [Git](https://github.com/Reiya1013/VMC_MaterialChange)
 
 #### 2021 バーチャルモーションキャプチャー用MOD「TransparentAdjust」
 
 バーチャルモーションキャプチャーのアバターでTransparentを用いて半透明表示をしていた場合透過ウインドウで裏面が見えてしまうのを解消したい思い開発
 
 - Unity, C#, AssetBundle, 拡張エディタ
-- [Git]{https://github.com/Reiya1013/VMC_TransparentAdjust}
+- [Git](https://github.com/Reiya1013/VMC_TransparentAdjust)
 
 
 #### 2022 VRChat向けツール「AvatarOverviewer」
@@ -162,22 +162,22 @@ BeatSaber用MOD「VMCAvatar」が2020に登場したが、ゲーム内のBloom�
 「VRChatのサムネイルに作者名や警告メッセージを用意に載せれたらな」と相談受け開発
 
 - Unity, C#, 拡張エディタ
-- [Booth]{https://reiya1013.booth.pm/items/3689562}
+- [Booth](https://reiya1013.booth.pm/items/3689562)
 
 #### 2022 VRChat向けツール「VRCAvatarSecurity」
 
 OSC通信を用いたアバター盗難対策ツール
 
 - Unity, C#, OSC通信
-- [Booth]{https://reiya1013.booth.pm/items/3684751}
+- [Booth](https://reiya1013.booth.pm/items/3684751)
 
 #### 2022 DMM VR Connect SDK (DVRSDK)へのPullRequest
 
 Meta QuestでVirtual Desktop使用時の鏡(ミラー)が正しく描画されなかったのを修正
 
 - Unity, C#, Shader
-- [Git]{https://github.com/dmm-com/vrlab-dvrsdk/releases/tag/v1.11.0}
-- [PullRequest]{https://github.com/dmm-com/vrlab-dvrsdk/pull/12}
+- [Git](https://github.com/dmm-com/vrlab-dvrsdk/releases/tag/v1.11.0)
+- [PullRequest](https://github.com/dmm-com/vrlab-dvrsdk/pull/12)
 
 
 
